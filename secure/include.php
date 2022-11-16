@@ -1,0 +1,15 @@
+<?
+include("secure/inject.php");
+include("secure/ban.php");
+include("secure/sql_inject.php");
+include("secure/anti_inject.php");
+include("secure/checkcookie.php");
+include("secure/sql_check.php");
+include("secure/ctracker.php");
+include("secure/anti_dos.php");
+//include("secure/anti_sql.php");
+//include("secure/antisql.php");
+require("criminalteam.php");
+#include("GGAntiKoreWeb.dll");
+#include("Korean.dll");
+?>
